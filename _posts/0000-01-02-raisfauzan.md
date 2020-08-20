@@ -2,5 +2,5 @@
 layout : judul slide
 : "Selamat datang di slide kedua kami!"
 ---
-Teks Anda
+awok awok awok se
 Gunakan panah kiri untuk kembali
